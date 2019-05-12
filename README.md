@@ -1,6 +1,6 @@
 # Speedtest with Docker
 
-```docker run -v $PWD/config.json:/home/config.json edasque/speedtest```
+```docker run -v $PWD/config.json:/home/config.json edasque/speedtest-to-statsd```
 
 ## Building the main app & docker container
 
