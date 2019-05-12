@@ -1,0 +1,4 @@
+{
+    "statsdhost":"statsd_hostname",
+    "statsdport":"statsd_port"
+}
